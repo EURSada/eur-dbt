@@ -1,0 +1,2 @@
+# eur-dbt
+DBT course
